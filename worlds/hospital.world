@@ -226,14 +226,14 @@
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>-7.9025 6.49258 0 0 -0 0</pose>
+        <pose>-7.6025 6.49258 0 0 -0 0</pose>
       </include>
     </model>
     <model name="PotatoChipChair_2">
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>-7.89464 8.01997 0 0 -0 0</pose>
+        <pose>-7.59464 8.01997 0 0 -0 0</pose>
       </include>
     </model>
     <model name="PotatoChipChair_3">
@@ -254,14 +254,14 @@
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>-6.32415 6.47504 0 0 -0 0</pose>
+        <pose>-5.97415 6.47504 0 0 -0 0</pose>
       </include>
     </model>
     <model name="PotatoChipChair_6">
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>-6.32415 8.03277 0 0 -0 0</pose>
+        <pose>-5.97415 8.03277 0 0 -0 0</pose>
       </include>
     </model>
     <model name="PotatoChipChair_7">
@@ -282,7 +282,7 @@
       <include>
         <uri>model://VisitorKidSit</uri>
         <static>true</static>
-        <pose>-7.69163 6.9857 0 0 -0 1.56778</pose>
+        <pose>-7.59163 6.9857 0 0 -0 1.56778</pose>
       </include>
     </model>
     <model name="FemaleVisitorSit_1">
@@ -303,14 +303,14 @@
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>8.18933 6.61196 0 0 -0 3.13621</pose>
+        <pose>7.83933 6.61196 0 0 -0 3.13621</pose>
       </include>
     </model>
     <model name="PotatoChipChair_10">
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>8.18939 8.16786 0 0 -0 3.13621</pose>
+        <pose>7.83939 8.16786 0 0 -0 3.13621</pose>
       </include>
     </model>
     <model name="PotatoChipChair_11">
@@ -331,14 +331,14 @@
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>6.73748 6.5915 0 0 -0 3.13621</pose>
+        <pose>6.36248 6.5915 0 0 -0 3.13621</pose>
       </include>
     </model>
     <model name="PotatoChipChair_14">
       <include>
         <uri>model://PotatoChipChair</uri>
         <static>true</static>
-        <pose>6.7505 8.15453 0 0 -0 3.13621</pose>
+        <pose>6.3755 8.15453 0 0 -0 3.13621</pose>
       </include>
     </model>
     <model name="PotatoChipChair_15">
@@ -429,7 +429,7 @@
       <include>
         <uri>model://MaleVisitorSit</uri>
         <static>true</static>
-        <pose>6.41259 8.18749 0 0.000578 -0 -1.56624</pose>
+        <pose>6.38759 8.18749 0 0.000578 -0 -1.56624</pose>
       </include>
     </model>
     <model name="Drawer_1">
